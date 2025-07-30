@@ -1,0 +1,12 @@
+{
+  "name": "ui-only-30",
+  "version": "1.0.0",
+  "description": "UI design project for Onlook visual editing",
+  "main": "english-unleashed-complete-prototype.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
